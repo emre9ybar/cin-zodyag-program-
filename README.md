@@ -1,0 +1,2 @@
+# ilkgithubkursu
+hesap makinesi 
