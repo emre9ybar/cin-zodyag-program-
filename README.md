@@ -1,2 +1,1 @@
-# ilkgithubkursu
-hesap makinesi 
+# çin zodyağı proğramı 
